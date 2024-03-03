@@ -1,0 +1,10 @@
+{ 
+    "development": {
+    "username": "root",
+    "password": "dolorosax100pre",
+    "database": "Autos",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorAlias": false
+  }
+}
